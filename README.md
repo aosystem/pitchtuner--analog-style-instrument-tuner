@@ -6,6 +6,9 @@ A high-performance **Instrument Tuner** built with **Flutter**. Combining advanc
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6758260527)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/AFJ2ObTjnnE/0.jpg)](https://www.youtube.com/watch?v=AFJ2ObTjnnE)
+
 ## 🌟 Key Features
 - **High-Precision Pitch Tracking:** Advanced algorithms for instant frequency analysis and stable pitch detection.
 - **Responsive Analog Meter:** A smooth, high-resolution needle display that makes fine-tuning intuitive.
